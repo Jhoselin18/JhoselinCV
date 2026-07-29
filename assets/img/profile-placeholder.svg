@@ -1,0 +1,10 @@
+<svg width="640" height="760" viewBox="0 0 640 760" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="760" rx="40" fill="#0f4c81"/>
+  <circle cx="320" cy="260" r="150" fill="#f0f4ff" opacity="0.95"/>
+  <circle cx="320" cy="238" r="112" fill="#1f5f95"/>
+  <circle cx="320" cy="220" r="82" fill="#e6eefc"/>
+  <path d="M185 635c20-120 108-180 135-180s115 60 135 180" fill="#f2f7ff"/>
+  <path d="M220 280c0-52 44-94 100-94s100 42 100 94" fill="#2b6cb0"/>
+  <rect x="185" y="610" width="270" height="40" rx="20" fill="#7ec4ff" opacity="0.7"/>
+  <text x="320" y="705" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#ffffff">Agregar foto aquí</text>
+</svg>
